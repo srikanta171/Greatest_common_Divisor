@@ -5,8 +5,8 @@
 // 
 // Create Date: 16.11.2023 13:27:45
 // Design Name: 
-// Module Name: cotroller
-// Project Name: 
+// Module Name: data path
+// Project Name: system level GCD design
 // Target Devices: 
 // Tool Versions: 
 // Description: 
