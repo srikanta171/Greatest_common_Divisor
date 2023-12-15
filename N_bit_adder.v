@@ -6,11 +6,11 @@
 // Create Date: 11.12.2023 16:32:50
 // Design Name: 
 // Module Name: N_bit_adder
-// Project Name: 
+// Project Name: Adder Desgin
 // Target Devices: 
 // Tool Versions: 
 // Description: 
-// 
+// This module has been used in data path design.
 // Dependencies: 
 // 
 // Revision:
