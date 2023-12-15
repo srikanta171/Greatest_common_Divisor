@@ -10,7 +10,7 @@
 // Target Devices: 
 // Tool Versions: 
 // Description: 
-// 
+// This module has been used in data path design.
 // Dependencies: 
 // 
 // Revision:
