@@ -19,7 +19,7 @@
 // 
 //////////////////////////////////////////////////////////////////////////////////
 
-module pipo_8 #(parameter WIDTH = 8) (
+module pipo #(parameter WIDTH = 8) (
         input [WIDTH-1 :0] in,
         input ld,
         input clk, rst,
